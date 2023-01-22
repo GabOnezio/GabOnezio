@@ -7,7 +7,7 @@
 - 🔵   PWA's
 - 🟣   WebAssembly (WASM)
 - ⛈️   Cloud's
-- 🌊   Debian (Linux) 
+- 🌊   Debian (Linux)
 <h2 align="center">You can reach me at</h2>
 
 <p align="center">
@@ -57,7 +57,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat&logo=github-actions&logoColor=ffffff)
 
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=ffffff)
 
@@ -66,6 +65,8 @@
 
 ---
 ⭐️ From [GabOnezio](https://github.com/GabOnezio)
+
+
 
 
 
