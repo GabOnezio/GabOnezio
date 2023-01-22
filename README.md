@@ -62,7 +62,9 @@
 
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
+</  d iv  >
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GabOnezio&repo=GabOnezio&theme=react)](https://github.com/GabOnezio/GabOnezio)
+</div>
 ---
 ⭐️ From [GabOnezio](https://github.com/GabOnezio)
 
