@@ -42,11 +42,11 @@
 
 ![Rust](https://img.shields.io/badge/-Rust-474747?style=flat&logo=rust&logoColor=FFC100)
 ![WebAssembly](https://img.shields.io/badge/-Webassembly-474747?style=flat&logo=Webassembly&logoColor=8F59E1)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Midjourney](https://img.shields.io/badge/-Midjourney-black?style=flat&logo=Midjourney)
 ![BootstrapStudio](https://img.shields.io/badge/-BootstrapStudio-%23CC6699?style=flat&logo=Bootstrap&logoColor=6B26D3)
 ![Adobe Photoshop](https://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat&logo=adobe-photoshop&logoColor=ffffff)
