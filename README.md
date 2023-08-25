@@ -1,7 +1,6 @@
 ### Hi there 👋
 ![ezgif-3-4ee3656e56](https://i.imgur.com/dN8Z9fD.png)
 - 📚   In the learning and reproduction phase!
-- 👜   Web Full-Stack
 - 📔   FrameWorks
 - 🦀   Rust Lang
 - 🔵   PWA's
